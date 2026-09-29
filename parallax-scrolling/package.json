@@ -16,6 +16,6 @@
   "devDependencies": {
     "assemblyscript": "^0.19.5",
     "get-image-data": "^5.0.0",
-    "local-web-server": "^4.2.1"
+    "local-web-server": "^5.4.0"
   }
 }
