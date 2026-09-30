@@ -2,7 +2,7 @@
 
 Theoretically unlimited zooming into the Mandelbrot Set.
 
-Using [as-big](https://github.com/ttulka/as-big) for arbitrary-precision decimal arithmetic.
+Using [as-big](https://github.com/ramonaoldf/as-big) for arbitrary-precision decimal arithmetic.
 
 > :warning: Compute-intensive!
 
